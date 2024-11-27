@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Bisma Kazmi.
 - 👀 I’m currently working on my Web development skills and Open source.
-- 🌱 I have more than 1 year experience in Php **Codeigniter**.
+- 🌱 I have more than 3 year experience in PHP **Codeigniter**, **Laravel**, **React JS** and **Vue JS**.
 - 💞️ I’m looking to collaborate on Github.
-- 📫 How to reach me: [Twitter -  @BismaKazmi2](https://twitter.com/BismaKazmi2)
 - 🌱 Ask me about Web development.
 
 <!---
